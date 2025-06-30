@@ -1,1 +1,10 @@
 Hello World
+
+# 你应该在Hello world后再更新新的内容，例如编写一段初始代码，如：
+#include <stdio.h>
+
+int main(void) 
+{
+    printf("Hello world!\n");
+    return 0;
+}
